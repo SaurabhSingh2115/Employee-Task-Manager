@@ -69,6 +69,13 @@
 					</a>
 				</li>
 				<li>
+					<a href="performance.php">
+						<i class="fa fa-bar-chart" aria-hidden="true"></i>
+						<span>Performance Analysis</span>
+					</a>
+				</li>
+
+				<li>
 					<a href="logout.php">
 						<i class="fa fa-sign-out" aria-hidden="true"></i>
 						<span>Logout</span>
